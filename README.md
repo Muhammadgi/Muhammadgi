@@ -228,8 +228,8 @@ Security scanning & container hardening
 - AI & LLM infrastructure consulting
 - Open-source collaboration
 
-📧 **Email:** YOUR_EMAIL  
-🔗 **LinkedIn:** YOUR_LINKEDIN_URL  
+📧 **Email:** khanhkharis1@gmail.com 
+🔗 **LinkedIn:** https://www.linkedin.com/in/muhammad-haris-323268236  
 
 > **If you value automation, reliability, and scalable systems — let’s connect.**
 
