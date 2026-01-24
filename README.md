@@ -1,26 +1,41 @@
-<!--
-=========================================================
- GitHub Profile README — DevOps & Cloud Engineer
- HOW TO USE:
- 1. Create a repo named EXACTLY your GitHub username
- 2. Add this file as README.md
- 3. Replace all placeholders marked with YOUR_*
-=========================================================
--->
+<!-- =====================================================
+ GitHub Profile README
+ Repo name MUST equal your GitHub username
+===================================================== -->
 
 <div align="center">
 
 # 👋 Hi, I'm **YOUR_NAME**
 
-### 🚀 DevOps & Cloud Engineer | AI/ML Infrastructure | Multi-Cloud Architect
+### ☁️ DevOps & Cloud Engineer | 🤖 AI/ML Infrastructure | 🧩 Multi-Cloud Architect
 
-**Designing scalable, secure, automation-first cloud platforms for modern AI-driven systems**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,python,go" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=vercel)](YOUR_PORTFOLIO_URL)
+> **Building scalable, secure & automation-first cloud platforms for AI-driven systems**
 
-> *“Automate everything. Scale responsibly. Design for failure.”*
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_X_URL">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -28,163 +43,138 @@
 
 ## 🧠 About Me
 
-I’m a **DevOps & Cloud Engineer** specializing in **AI/ML infrastructure, cloud automation, and multi-cloud architectures**.  
-I design and operate **highly available, secure, and cost-efficient systems** across AWS, Azure, and GCP—with Linux at the core.
+I’m a **DevOps & Cloud Engineer** with deep expertise in **multi-cloud architecture, AI/ML infrastructure, and Linux systems**.  
+I design and operate **highly available, observable, and secure platforms** with automation at the core.
 
-### 🔭 Current Focus
-- AI/LLM infrastructure & retrieval-augmented generation (RAG)
-- Multi-cloud Kubernetes platforms (EKS, AKS, GKE)
-- Infrastructure as Code with Terraform
-- Secure, observable, production-grade systems
-
-### 🛠 Core Principles
-- **Automation first**
-- **Immutable infrastructure**
-- **Security by design**
-- **Reliability & scalability over shortcuts**
+### 🔭 What I Work On
+- Production-grade **LLM & RAG platforms**
+- Kubernetes across **AWS, Azure & GCP**
+- Infrastructure as Code with **Terraform**
+- Secure Linux systems & cloud networking
 
 ---
 
-## 💼 Professional Experience
+## ☁️ Multi-Cloud Expertise
 
-### **Senior DevOps / Cloud Engineer** — *YOUR_COMPANY*
-📍 *Remote / Location*  
-📅 *YYYY – Present*
+### **Amazon Web Services (AWS)**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-**Impact & Achievements**
-- 🚀 Reduced infrastructure provisioning time by **70%** using Terraform & GitHub Actions
-- 📉 Cut cloud costs by **30–40%** through autoscaling, spot instances & architecture optimization
-- 🤖 Deployed production-grade **LLM/RAG platforms** supporting thousands of queries/day
-- 🔐 Implemented IAM, RBAC & secrets management aligned with **SOC2 & GDPR**
-
-**Tech Stack**
-`AWS · Azure · GCP · Kubernetes · Terraform · Python · Linux · GitHub Actions · Prometheus`
+EC2 · ECS · **EKS** · Lambda · S3 · RDS · Aurora · DynamoDB  
+VPC · Route53 · IAM · CloudWatch  
+SageMaker · Bedrock · Kendra · SQS · SNS · Secrets Manager
 
 ---
 
-## 🧰 Technical Arsenal
+### **Microsoft Azure**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
-### ☁️ Cloud Platforms (Multi-Cloud)
-
-#### **AWS**
-EC2 · ECS · **EKS** · Lambda · S3 · RDS · Aurora · DynamoDB · VPC · Route53 · CloudWatch  
-IAM · SageMaker · Bedrock · Kendra · SQS · SNS · Secrets Manager
-
-#### **Microsoft Azure**
-Virtual Machines · **AKS** · Azure AI Services · Cognitive Services  
-Azure DevOps · Key Vault · Azure Monitor · Cosmos DB · Azure Functions
-
-#### **Google Cloud Platform**
-Compute Engine · **GKE** · Cloud Storage · Cloud SQL  
-Vertex AI · IAM · Cloud Monitoring
-
-#### **Alternative / Cost-Optimized**
-Hetzner · VPS-based Kubernetes · Hybrid & bare-metal strategies
+Virtual Machines · **AKS** · Azure AI Services  
+Cognitive Services · Azure DevOps  
+Key Vault · Azure Monitor · Cosmos DB · Functions
 
 ---
 
-### 🐧 Linux System Administration (Core Skill)
+### **Google Cloud Platform**
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 
-**Distributions**
-Ubuntu · RedHat · CentOS · Debian
+Compute Engine · **GKE** · Cloud Storage  
+Cloud SQL · Vertex AI · IAM · Cloud Monitoring
+
+---
+
+### **Cost-Optimized / Alternative Cloud**
+Hetzner · VPS-based Kubernetes · Hybrid & Bare-Metal
+
+---
+
+## 🐧 Linux System Administration (Core Strength)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Distributions**  
+Ubuntu · RedHat · CentOS · Debian  
 
 **Expertise**
-- Server provisioning & lifecycle management
-- Security hardening & patching
-- Networking, storage & filesystem tuning
-- High-availability & backup strategies
+- Server provisioning & lifecycle management  
+- Security hardening & patch automation  
+- Networking, storage & performance tuning  
 
 **Tooling**
-Bash · systemd · iptables · SSH · fail2ban · cron  
-Monitoring & logging tools
+Bash · systemd · iptables · SSH · cron · fail2ban  
 
-**Package Management**
-apt · yum · dnf
+**Package Managers**
+apt · yum · dnf  
 
 ---
 
-### 🤖 AI / ML & LLM Operations
+## 🤖 AI / ML & LLM Infrastructure
+
+![AI](https://img.shields.io/badge/AI%20Infrastructure-000000?style=for-the-badge&logo=openai)
 
 - LLM deployment, scaling & monitoring
 - **Model Context Protocol (MCP) server development**
-- Replit Agents & AI-native workflows
+- Replit Agents & AI automation
 - Azure AI Search · AWS Kendra · Bedrock · OpenAI APIs
 
 **Vector Databases**
-Pinecone · Weaviate · ChromaDB
+Pinecone · Weaviate · ChromaDB  
 
 **Frameworks**
-LangChain · LlamaIndex · Hugging Face
+LangChain · LlamaIndex · Hugging Face  
 
 ---
 
-### 🏗 Infrastructure as Code
+## 🏗 Infrastructure as Code
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
 
 Terraform ⭐ (Primary)  
-Ansible · CloudFormation · ARM Templates · Pulumi
+Ansible · CloudFormation · ARM Templates · Pulumi  
 
 ---
 
-### 📦 Containerization & Orchestration
+## 📦 Containers & Orchestration
 
-Docker (multi-stage builds, optimization)  
-Docker Compose  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+Docker · Docker Compose  
 Kubernetes (**EKS · AKS · GKE**)  
-Helm Charts  
-Service Mesh: Istio · Linkerd
+Helm · Istio · Linkerd  
 
 ---
 
-### 🔁 CI/CD & Automation
+## 🔁 CI/CD & Automation
 
-GitHub Actions  
-GitLab CI  
-Azure DevOps  
-Jenkins  
-n8n (workflow automation)
+GitHub Actions · GitLab CI  
+Azure DevOps · Jenkins  
+n8n Workflow Automation  
 
 ---
 
-### 🧑‍💻 Programming Languages
+## 🧑‍💻 Programming Languages
 
-Python ⭐ (AI/ML, automation, APIs)  
-Go (microservices, CLI tools)  
-Bash (advanced scripting)  
-JavaScript / Node.js
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
 ---
 
-### 📊 Monitoring & Observability
+## 📊 Monitoring & Observability
 
 Prometheus · Grafana  
-ELK Stack  
-CloudWatch · Azure Monitor  
-Jaeger (distributed tracing)
+ELK Stack · CloudWatch  
+Azure Monitor · Jaeger  
 
 ---
 
-### 🗄 Databases
-
-**Relational**
-PostgreSQL · MySQL · Aurora
-
-**NoSQL**
-MongoDB · DynamoDB · Cosmos DB
-
-**Caching**
-Redis · Memcached
-
-**Vector Databases**
-Pinecone · Weaviate · ChromaDB
-
----
-
-### 🔐 Security & Compliance
+## 🔐 Security & Compliance
 
 IAM · RBAC  
 HashiCorp Vault · AWS Secrets Manager  
-SAST / DAST / container scanning  
-Compliance: **SOC2 · GDPR · HIPAA**
+Security scanning & container hardening  
+**SOC2 · GDPR · HIPAA**
 
 ---
 
@@ -192,11 +182,10 @@ Compliance: **SOC2 · GDPR · HIPAA**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat)
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
 </div>
 
@@ -204,26 +193,17 @@ Compliance: **SOC2 · GDPR · HIPAA**
 
 ## 🚀 Featured Projects
 
-### 🔹 **AI-Powered RAG Platform**
+### 🔹 AI-Powered RAG Platform
 **Stack:** AWS · EKS · Terraform · LangChain · Pinecone  
-- Production-ready LLM retrieval system
-- Secure, scalable & fully automated  
-👉 *Repo:* `YOUR_REPO_LINK`
+👉 Repo: `YOUR_REPO_LINK`
 
----
-
-### 🔹 **Multi-Cloud Kubernetes Platform**
+### 🔹 Multi-Cloud Kubernetes Platform
 **Stack:** AWS · Azure · GCP · Terraform · Helm  
-- Unified IaC across providers
-- HA, autoscaling, cost-optimized  
-👉 *Repo:* `YOUR_REPO_LINK`
+👉 Repo: `YOUR_REPO_LINK`
 
----
-
-### 🔹 **DevOps Automation Toolkit**
+### 🔹 DevOps Automation Toolkit
 **Stack:** Python · Go · GitHub Actions  
-- CLI tools for infra & CI/CD automation  
-👉 *Repo:* `YOUR_REPO_LINK`
+👉 Repo: `YOUR_REPO_LINK`
 
 ---
 
@@ -232,34 +212,24 @@ Compliance: **SOC2 · GDPR · HIPAA**
 **Certifications**
 - AWS Certified Solutions Architect *(Placeholder)*
 - Azure DevOps Engineer *(Placeholder)*
-- CKAD / CKA *(Placeholder)*
+- CKA / CKAD *(Placeholder)*
 
 **Currently Learning**
 - Advanced LLMOps & inference optimization
-- Platform engineering & internal developer platforms (IDPs)
+- Platform Engineering & IDPs
 
 ---
 
-## 🧩 Community & Philosophy
+## 📬 Let’s Build Something Great
 
-- Open-source contributor & mentor
-- Strong believer in **clean automation over manual heroics**
-- Advocate for **observable, auditable, secure systems**
-
----
-
-## 📬 Let’s Connect
-
-💬 Open to:
-- DevOps & Platform Engineering roles
-- AI/ML infrastructure consulting
-- Cloud architecture & automation projects
+💡 Open to:
+- DevOps / Platform / Cloud roles
+- AI & LLM infrastructure consulting
 - Open-source collaboration
 
 📧 **Email:** YOUR_EMAIL  
 🔗 **LinkedIn:** YOUR_LINKEDIN_URL  
-🌐 **Portfolio:** YOUR_PORTFOLIO_URL  
 
-> *If you care about reliability, automation, and building systems that scale—let’s talk.*
+> **If you value automation, reliability, and scalable systems — let’s connect.**
 
 ---
