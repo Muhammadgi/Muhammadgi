@@ -20,19 +20,19 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/muhammad-haris-323268236/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_X_URL">
+  <a href="http://x.com/HARISKHANHK9">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="https://www.instagram.com/khanhkharis1/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:khanhkharis1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="aws.codebyharris.com">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
