@@ -210,9 +210,10 @@ Security scanning & container hardening
 ## 🎓 Certifications & Learning
 
 **Certifications**
-- AWS Certified Solutions Architect *(Placeholder)*
-- Azure DevOps Engineer *(Placeholder)*
-- CKA / CKAD *(Placeholder)*
+- AWS Cloud Technical Essentials *https://www.coursera.org/account/accomplishments/records/YY50UWZYK0KK*
+- AI Fundamentals And Cloud *https://www.coursera.org/account/accomplishments/verify/1F5HKOY8KG56*
+- Agentic AI And Agents *https://www.coursera.org/account/accomplishments/records/2BID8R234UJK*
+- Cloud Computing 
 
 **Currently Learning**
 - Advanced LLMOps & inference optimization
