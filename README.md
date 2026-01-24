@@ -177,7 +177,7 @@ Security scanning & container hardening
 **SOC2 · GDPR · HIPAA**
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -206,7 +206,7 @@ Security scanning & container hardening
 👉 Repo: `YOUR_REPO_LINK`
 
 ---
-
+-->
 ## 🎓 Certifications & Learning
 
 **Certifications**
