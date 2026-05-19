@@ -1,6 +1,3 @@
- GitHub Profile README
- Repo name MUST equal your GitHub username
-===================================================== -->
 
 <div align="center">
 
