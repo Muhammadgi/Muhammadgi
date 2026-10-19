@@ -21,7 +21,7 @@
   <!-- ✏️ Portfolio: codebyharris.com no longer resolves. Put the live URL here, then remove the comment markers.
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   -->
-  <img src="https://komarev.com/ghpvc/?username=Muhammadgi&label=PROFILE+VIEWS&color=3fb950&style=for-the-badge" alt="Profile views" />
+  <img src="https://hits.sh/github.com/Muhammadgi.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=3fb950" alt="Profile views" />
 </p>
 
 <p align="center">

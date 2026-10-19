@@ -114,4 +114,4 @@ tools/fonts.js, OFL.txt      embedded JetBrains Mono subset and its licence
 - [skillicons.dev](https://skillicons.dev) and [shields.io](https://shields.io): tech icons and badges.
 - [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) and [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats): stats cards.
 - [Platane/snk](https://github.com/Platane/snk): contribution snake.
-- [komarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter): profile views badge.
+- [hits.sh](https://hits.sh): profile views badge.
