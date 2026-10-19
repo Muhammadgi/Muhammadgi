@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Profile SVG preview</title>
+  <!--
+    Open this file in Chrome/Edge to preview the animated SVGs after editing config.js.
+    To write the files into ../assets, run:  powershell -ExecutionPolicy Bypass -File tools\build.ps1
+  -->
+  <style>
+    body { margin: 0; padding: 32px 16px; background: #0d1117; color: #e6edf3; font: 14px/1.5 system-ui, sans-serif; }
+    main { max-width: 900px; margin: 0 auto; display: grid; gap: 24px; }
+    h1 { font-size: 16px; font-weight: 600; margin: 0; color: #8b949e; }
+    img { width: 100%; height: auto; display: block; }
+    .light { background: #ffffff; padding: 24px; border-radius: 12px; display: grid; gap: 24px; }
+    .error { color: #ff7b72; white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Preview (rendered as &lt;img&gt;, the same way GitHub shows them)</h1>
+    <div id="preview" style="display:grid;gap:24px"></div>
+  </main>
+  <script src="fonts.js" charset="utf-8"></script>
+  <script src="config.js" charset="utf-8"></script>
+  <script src="generate.js" charset="utf-8"></script>
+</body>
+</html>
